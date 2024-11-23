@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/chiragsingh01" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsingh01?logo=twitter&style=for-the-badge" alt="chiragsingh01" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack E-commerce Website**
-- 🌱 I’m currently learning **Devops, Serverless Microservices**
-- 👯 I’m looking to collaborate on **Devops Project as a Freelancer**
-- 🤔 I’m looking for help with **Industry Leading Project ideas**
-- 💬 Ask me about **Java,React.Js,Node.Js,Springboot**
-- 📫 How to reach me **chiragsingh9868@gmail.com**
-- ⚡ Fun fact: **The first computer programmer never actually saw a computer!**
+- 🔭 I’m currently working on:- **MERN stack E-commerce Website**
+- 🌱 I’m currently learning:- **Devops, Serverless Microservices**
+- 👯 I’m looking to collaborate on:- **Devops Project as a Freelancer**
+- 🤔 I’m looking for help with:- **Industry Leading Project ideas**
+- 💬 Ask me about:- **Java,React.Js,Node.Js,Springboot**
+- 📫 How to reach me:- **chiragsingh9868@gmail.com**
+- ⚡ Fun fact:- **The first computer programmer never actually saw a computer!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chiragsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragsingh01" height="30" width="40" /></a>
