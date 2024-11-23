@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">I am a passionate and dedicated person from India, with a solid foundation in web development and am proficient in data structures and algorithms with a proven track record of problem-solving and optimization on competitive programming platforms such as LeetCode. I am eager to contribute to innovative projects that leverage my work to drive business success.</h3>
+<h3 align="center">I am a passionate and a dedicated person from India, with solid foundation in web development and am proficient in data structures and algorithms with a proven track record of problem-solving and optimization on competitive programming platforms such as LeetCode. I am eager to contribute to innovative projects that leverage my work to drive business success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorcererchiragsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sorcererchiragsingh" /> </p>
 
