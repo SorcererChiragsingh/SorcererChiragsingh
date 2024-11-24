@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorcererchiragsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sorcererchiragsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorcererchiragsingh" alt="sorcererchiragsingh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorcererchiragsingh" alt="sorcererchiragsingh" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/chiragsingh01" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsingh01?logo=twitter&style=for-the-badge" alt="chiragsingh01" /></a> </p>
 
@@ -19,7 +19,7 @@
 <a href="https://twitter.com/chiragsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragsingh01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chirag-singh-148993279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-singh-148993279" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chiragsingh8926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chiragsingh8926" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chiragsingh8926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsingh8926" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SorcererChiragsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsingh8926" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
