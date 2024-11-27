@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">I am a passionate and a dedicated person from India, with solid foundation in web development and am proficient in data structures and algorithms with a proven track record of problem-solving and optimization on competitive programming platforms such as LeetCode. I am eager to contribute to innovative projects that leverage my work to drive business success.</h3>
-
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorcererchiragsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sorcererchiragsingh" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorcererchiragsingh" alt="sorcererchiragsingh" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorcererchiragsingh" alt="sorcererchiragsingh" /></a> </p> 
+-->
 
 <p align="left"> <a href="https://twitter.com/chiragsingh01" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsingh01?logo=twitter&style=for-the-badge" alt="chiragsingh01" /></a> </p>
 
