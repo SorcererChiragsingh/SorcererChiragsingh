@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">I am a passionate and a dedicated person from India, with solid foundation in web development and am proficient in data structures and algorithms with a proven track record of problem-solving and optimization on competitive programming platforms such as LeetCode. I am eager to contribute to innovative projects that leverage my work to drive business success.</h3>
 
-   
+<!--   
 <div align="center"> 
 <h2>🐍 Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> 
-
+-->
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorcererchiragsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sorcererchiragsingh" /> </p>
@@ -81,4 +81,4 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorcererchiragsingh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-  <br/>
+<br/>
