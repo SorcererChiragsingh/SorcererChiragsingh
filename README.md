@@ -71,7 +71,7 @@
 
 <!-- Github Strat's -->
 <br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+  <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=left>
   <img width=390 src="https://streak-stats.demolab.com/?user=sorcererchiragsingh&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div>
