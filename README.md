@@ -81,11 +81,10 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SorcererChiragsingh?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
+
 <!-- Github Strat's -->
-<br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stat's ⚡⚡ 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Github Stat's:** 
   
-<br>
 <div align=left>
   <img width=390 src="https://streak-stats.demolab.com/?user=sorcererchiragsingh&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div>
 <div align=center>
