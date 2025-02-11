@@ -1,9 +1,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Chirag</h1> -->
-# Hi... I'm Chirag  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+## Hi... I'm Chirag  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 A passionate and dedicated Full Stack Developer based in Delhi, India, with a strong foundation in web development and a deep proficiency in data structures and algorithms. My technical expertise is complemented by my experience with development methodologies like Agile and Scrum, which enable efficient and collaborative project execution. I am committed to creating responsive, accessible, and inclusive digital products and experiences for the web. With a proven track record in problem-solving and optimization, demonstrated on competitive programming platforms like LeetCode.
 - Open to project collaborations
-- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+- **NOTE** : You can **fork** and **contribute** to any of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 <!-- 
 <h2 align="center">I am a passionate and a dedicated person from India, with solid foundation in web development and am proficient in data structures and algorithms with a proven track record of problem-solving and optimization on competitive programming platforms such as LeetCode. I am eager to contribute to innovative projects that leverage my work to drive business success.</h2>
@@ -47,7 +47,7 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 - ⚡ Fun fact:- **The first computer programmer never actually saw a computer!**
 
 <!-- Language tools used -->
-<h3 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools Known:** </h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools Known:**
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -83,8 +83,8 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 
 <!-- Github Strat's -->
 <br/>
-  <h2 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stat's ⚡⚡ 
-  </h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stat's ⚡⚡ 
+  
 <br>
 <div align=left>
   <img width=390 src="https://streak-stats.demolab.com/?user=sorcererchiragsingh&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div>
