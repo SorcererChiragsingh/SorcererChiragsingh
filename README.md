@@ -32,6 +32,8 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 <!-- Social connect -->
 <p align="left"> <a href="https://twitter.com/chiragsingh01" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsingh01?logo=twitter&style=for-the-badge" alt="chiragsingh01" /></a> </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+
 <!-- Social's -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +43,6 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 <a href="https://leetcode.com/u/SorcererChiragsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsingh8926" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
 <!-- General info -->
 - 🔭 I’m currently working on:- **MERN stack E-commerce Website**
