@@ -29,10 +29,12 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorcererchiragsingh" alt="sorcererchiragsingh" /></a> </p> 
 -->
 
+<!-- Computer Illustration Image -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+
 <!-- Social connect -->
 <p align="left"> <a href="https://twitter.com/chiragsingh01" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsingh01?logo=twitter&style=for-the-badge" alt="chiragsingh01" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
 <!-- Social's -->
 <h3 align="left">Connect with me:</h3>
