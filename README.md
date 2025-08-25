@@ -47,9 +47,9 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 
 
 <!-- General info -->
-- 🔭 I’m currently working on:- **MERN stack E-commerce Website**
-- 🌱 I’m currently learning:- **Devops, Serverless Microservices**
-- 👯 I’m looking to collaborate on:- **Devops Project as a Freelancer**
+- 🔭 I’m currently working on:- **Java Springboot Project**
+- 🌱 I’m currently learning:- **Java Full Stack + Springboot**
+- 🔜 I’m Gona Future Proof myself with:- **Devops & Automation**
 - 🤔 I’m looking for help with:- **Industry Leading Project ideas**
 - 💬 Ask me about:- **Java,React.Js,Node.Js,Springboot**
 - 📫 How to reach me:- **chiragsingh9868@gmail.com**
