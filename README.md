@@ -41,15 +41,16 @@ I am Chirag, a passionate and dedicated Full Stack Developer based in Delhi, Ind
 <p align="left">
 <a href="https://twitter.com/chiragsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragsingh01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chirag-singh-148993279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-singh-148993279" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chiragsingh8926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chiragsingh8926" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/chiragsingh8926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chiragsingh8926" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/u/SorcererChiragsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsingh8926" height="30" width="40" /></a>
 </p>
 
 
 <!-- General info -->
+- 👨‍💻 I’m currently working As:- **Full Time Freelancer**
 - 🔭 I’m currently working on:- **Java Springboot Project**
 - 🌱 I’m currently learning:- **Java Full Stack + Springboot**
-- 🔜 I’m Gona Future Proof myself with:- **Devops & Automation**
+- 🔜 I’m Going to Future Proof myself with:- **DevOps & Automation**
 - 🤔 I’m looking for help with:- **Industry Leading Project ideas**
 - 💬 Ask me about:- **Java,React.Js,Node.Js,Springboot**
 - 📫 How to reach me:- **chiragsingh9868@gmail.com**
