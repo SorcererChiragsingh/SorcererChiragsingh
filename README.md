@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Chirag</h1> -->
 ## Hi... I'm Chirag  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A passionate and dedicated Java + SpringBoot | MERN Stack Developer based in Delhi, India, with a strong foundation in web development and a deep proficiency in data structures and algorithms. My technical expertise is complemented by my experience with development methodologies like Agile and Scrum, which enable efficient and collaborative project execution. I am committed to creating responsive, accessible, and inclusive digital products and experiences for the web. With a proven track record in problem-solving and optimization, demonstrated on competitive programming platforms like LeetCode.
+A passionate and dedicated Java + SpringBoot | Full Stack Engineer based in Delhi, India, with a strong foundation in web development and a deep proficiency in data structures and algorithms. My technical expertise is complemented by my experience with development methodologies like Agile and Scrum, which enable efficient and collaborative project execution. I am committed to creating responsive, accessible, and inclusive digital products and experiences for the web. With a proven track record in problem-solving and optimization, demonstrated on competitive programming platforms like LeetCode.
 - Open to project collaborations.📌
 - **NOTE** : You can **fork** and **contribute** to any of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
